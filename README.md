@@ -1,2 +1,44 @@
-# sobre-mim
-HTML
+   <body>
+            <header><hr>
+                <h1>Juan Lopes Ferreira</h1>
+                <p>Olá sou Juan tenho 21 anos, sou estudante em desenvolvimento de sistemas.</p>
+            </header>
+            <main><hr>
+                <section>
+                    <h2>Minhas caracteristicas</h2>
+                    <ul>
+                        <li><p>Uma de minhas principais caractergisticas é ser uma pessoa comunicativa, gosto sempre de conversar, discutir ideias diferentes e absorver o maximo de conhecimento possivel.</p></li>
+                        <li><p>Posso afirmar que nunca fui considerado o "mais inteligente" da turma, mas do meu jeito sempre acabava me destacando positivamente nas aulas.</p></li>
+                        <li><p>Gosto sempre de procurar coisas novas, e coisas que estimulam minha curiosidade me atraem ainda mais.</p></li>
+                        <li><p>Nunca me identifiquei como o cara dos estudos, mas sinto que dessa vez as coisas mudaram. Creio que isso se dá ao fato de hoje eu ter 21 anos e ter uma certa maturidade e meus objetivos serem mais concretos, o que pra mim na epoca da escola era quase impossivel.</p></li>
+                        <li><p>Costumo ser uma pessoa divertida na maioria das vezes, mas assim como todo ser humano quando minha bateria social acaba e eu só quer ir embora de qualquer lugar que eu esteja que não seja a minha casa.</p></li>
+                    </ul>
+                </section><hr>
+                <section>
+                    <h2>Meus hobbies</h2>
+                    <ol>
+                        <li><strong>Praticar esportes</strong></li>
+                        <p>Meu pricipal hobbie atualmente com certeza é praticar esportes, em especefico andar de skate. isso sempre foi algo presente na minha vida. no geral eu sempre pratiquei todos os tipos de esportes desde jogar futebol até mesmo fazer ginastica artistica(mesmo não tendo vocação nenhuma para isso), e o skate acabou se tornando uma parte significamente valiosa da minha vida, meus amigos não eram todos que andavam de skate então isso se tornou o diferencial em mim. apesar de com o passar dos anos conheci muitas pessoas que andavam de skate, e de certa forma acabei até influenciando outras.</p>
+                        <li><strong>Dançar</strong></li>
+                        <p>Uma coisa que sempre me animou e animava as pessoas a minha volta era dançar, sempre dançei onde quer que estivesse e tenho muitas boas lembraças de todas as vezes que me encontrava nesse ambiente, muitas pessoas tambem tem essa memoria sobre mim</p>
+                        <li><strong>Ver filmes</strong></li>
+                        <p>Uma coisa tambem que construi toda a trajetoria da minha vida como criança, assim como a maoiria dos meninos da minha epoca, sempre gostei de filmes de super herois, filmes de ação, e conforme o tempo foi passando comecei a me interessar mais por varios tipos de filmes, principalmente os dramas</p>
+                        <li><strong>Ler livros</strong></li>
+                        <p>Ler livros confesso que seja um dos meus hobbies atualmente menos praticados, apesar de eu gostar muito, mas de acordo com uma pesquisa feita em novembro de 2024,<a href="https://g1.globo.com/educacao/noticia/2024/11/19/o-brasil-que-le-menos-pesquisa-aponta-que-pais-perdeu-quase-7-milhoes-de-leitores-em-4-anos-veja-raio-x.ghtml">pesquisa</a> 53% da população brasileira não leem livros.
+                        Então pode se dizer que apensar de eu ler pouco ainda sim faço parte de uma minoria significativa da população</p>
+                    </ol>
+                </section> <hr>
+                <section>
+                    <h2>Meus principais objetivos</h2>
+                    <p>Me formar em desenvolvimento de sistemas, continuar praticando skate, estudar ainda mais, ler livros e artigos que me conduzirão na minha formação.</p>
+                    <p>vou atras também de certificações para aumentar ainda mais meu conhecimento,e consequentemente aumentar minhas chances para um possivel trabalho na área.</p>
+                </section>           
+            </main>
+            <footer><hr>
+                <p>Para saber mais sobre mim, acesse o meu perfl no instagram</p>
+                <a href="https://www.instagram.com/jlf_loyalty?igsh=MXd5bTZpNzU3NnI4bQ==" Meu perfil target="_blank">
+                    <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_1280.png" alt="instagram logo" width="100" height="100">
+                </a>   
+            </footer>
+        </body>
+</html>
